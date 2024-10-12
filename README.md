@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adr1an01&show_icons=true&locale=en" alt="adr1an01" /></p>
 
-[![Animación de 7 segundos]](https://github.com/user-attachments/assets/579a83dc-4645-4f2f-a7b0-edb53dab420e)
+https://github.com/user-attachments/assets/287c9068-742e-43a9-b689-58081ebe7f86
