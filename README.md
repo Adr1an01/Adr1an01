@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Renzo Shickshi Castañeda</h1>
-<h3 align="center">En mi camino por aprender ciencia de datos y tecnologías en la nube, me apasiona descubrir cómo los datos y la nube pueden transformar negocios y procesos.</h3>
+<h3 align="center">En mi camino por aprender ciencia de datos y tecnologías en la nube, me apasiona descubrir cómo los datos y la nube pueden transformar negocios y procesos. </h3>
 
 - 🌱 Actualmente aprendiendo sobre : **Ciencia de datos y tecnologías de la nube para ingeniería de datos**
 
